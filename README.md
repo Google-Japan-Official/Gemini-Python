@@ -1,1 +1,1 @@
-<h1>PythonでGemibiを動かしてみた！</h1>
+<h1>PythonでGeminiを動かしてみた！</h1>
